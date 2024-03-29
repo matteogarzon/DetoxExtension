@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Detox Extension",
+    "description": "A desparate attempt for a dopamine detox. Please help yourself.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popo/detoxPopup.html",
+      "default_icon": "icons/detox-32.png"
+    }
+  }
+  
